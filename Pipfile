@@ -5,9 +5,11 @@ name = "pypi"
 
 [packages]
 google-cloud-storage = "*"
+urllib3 = ">=1.26.5"
 
 [dev-packages]
 autopep8 = "*"
+urllib3 = ">=1.26.5"
 
 [requires]
 python_version = "3.6"
